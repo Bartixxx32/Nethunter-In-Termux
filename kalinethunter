@@ -90,7 +90,7 @@ checkdeps() {
 # URLs of all possibls architectures
 
 seturl() {
-	URL="https://build.nethunter.com/kalifs/kalifs-20171013/kalifs-${1}-${chroot}.tar.xz"
+	URL="https://build.nethunter.com/kalifs/kalifs-latest/kalifs-${1}-${chroot}.tar.xz"
 }
 
 # Utility function to get tar file
